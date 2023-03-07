@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="206mm" xmlns="http://www.w3.org/2000/svg" height="140mm" version="1.1" viewBox="0 0 779 530" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="427,66 553,66" stroke="#0080ff" stroke-width="1"/>
+   <polygon fill="#ffffff" points="427,66 437,61 446,66 437,71" stroke="#0080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="540,70 553,66 540,62" stroke="#0080ff" stroke-width="1"/>
+   <text x="456" y="61" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..1</text>
+   <text x="524" y="76" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..*</text>
+   <polyline fill="none" points="140,175 412,175" stroke="#0080ff" stroke-width="1"/>
+   <polygon fill="#0080ff" points="140,175 149,170 159,175 149,179" stroke="#0080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="399,179 412,175 399,171" stroke="#0080ff" stroke-width="1"/>
+   <text x="168" y="170" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..*</text>
+   <text x="383" y="185" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..*</text>
+   <polyline fill="none" points="87,378 87,471 357,471" stroke="#0080ff" stroke-width="1"/>
+   <polygon fill="#0080ff" points="87,378 91,388 87,397 82,388" stroke="#0080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="343,475 357,471 343,467" stroke="#0080ff" stroke-width="1"/>
+   <text x="100" y="405" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..1</text>
+   <text x="327" y="481" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..*</text>
+   <polyline fill="none" points="346,100 346,159 140,159" stroke="#0080ff" stroke-width="1"/>
+   <polygon fill="#ffffff" points="346,100 351,109 346,118 342,109" stroke="#0080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="153,155 140,159 153,163" stroke="#0080ff" stroke-width="1"/>
+   <text x="358" y="126" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..*</text>
+   <text x="168" y="154" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..*</text>
+   <polyline fill="none" points="265,38 160,38" stroke="#0080ff" stroke-width="1"/>
+   <polyline fill="none" points="174,34 160,38 174,42" stroke="#0080ff" stroke-width="1"/>
+   <text x="236" y="48" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..1</text>
+   <text x="188" y="33" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..*</text>
+   <polyline fill="none" points="600,206 532,206" stroke="#8080ff" stroke-width="1"/>
+   <polygon fill="#ffffff" points="532,206 546,199 546,213" stroke="#8080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="77,277 77,212 73,212 73,197" stroke="#0080ff" stroke-width="1"/>
+   <polyline fill="none" points="77,210 73,197 69,210" stroke="#0080ff" stroke-width="1"/>
+   <text x="64" y="256" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..1</text>
+   <text x="85" y="223" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..*</text>
+   <polyline fill="none" points="721,240 721,297" stroke="#8080ff" stroke-width="1"/>
+   <polygon fill="#ffffff" points="721,297 714,283 728,283" stroke="#8080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="665,341 518,341" stroke="#0080ff" stroke-width="1"/>
+   <polyline fill="none" points="532,337 518,341 532,345" stroke="#0080ff" stroke-width="1"/>
+   <text x="636" y="352" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..1</text>
+   <text x="546" y="336" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..*</text>
+   <polyline fill="none" points="282,297 282,341 404,341" stroke="#0080ff" stroke-width="1"/>
+   <polygon fill="#ffffff" points="282,297 286,306 282,315 277,306" stroke="#0080ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="390,345 404,341 390,337" stroke="#0080ff" stroke-width="1"/>
+   <text x="294" y="323" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">1..1</text>
+   <text x="375" y="352" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">0..*</text>
+   <polyline fill="none" points="226,289 171,289" stroke="#8080ff" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="185,285 171,289 185,293" stroke="#8080ff" stroke-width="1"/>
+   <polyline fill="none" points="338,206 412,206" stroke="#8080ff" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="399,210 412,206 399,202" stroke="#8080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="404" y="297" fill="url(#Gradient1)" width="114" height="89" stroke="#0080ff" stroke-width="1"/>
+   <text x="461" y="308" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">cliente</text>
+   <line x1="404" x2="518" y1="314" y2="314" stroke="#0080ff" stroke-width="1"/>
+   <text x="408" y="323" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="408" y="336" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="408" y="349" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="408" y="362" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="419" y="323" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="419" y="336" fill="#000000" font-size="8" font-family="Arial">NOMBRE</text>
+   <text x="419" y="349" fill="#000000" font-size="8" font-family="Arial">APELLIDO</text>
+   <text x="419" y="362" fill="#000000" font-size="8" font-family="Arial">TELEFONO</text>
+   <text x="483" y="323" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="483" y="336" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="483" y="349" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="483" y="362" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="404" x2="518" y1="370" y2="370" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="15" y="121" fill="url(#Gradient2)" width="125" height="76" stroke="#0080ff" stroke-width="1"/>
+   <text x="77" y="132" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">salas</text>
+   <line x1="15" x2="140" y1="138" y2="138" stroke="#0080ff" stroke-width="1"/>
+   <text x="20" y="147" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="20" y="160" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="20" y="173" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="31" y="147" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="31" y="160" fill="#000000" font-size="8" font-family="Arial">NOMBRE_S</text>
+   <text x="31" y="173" fill="#000000" font-size="8" font-family="Arial">N_ASIENTOS</text>
+   <text x="105" y="147" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="105" y="160" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="105" y="173" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="15" x2="140" y1="181" y2="181" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="357" y="414" fill="url(#Gradient3)" width="141" height="114" stroke="#0080ff" stroke-width="1"/>
+   <text x="427" y="425" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">peliculas</text>
+   <line x1="357" x2="498" y1="431" y2="431" stroke="#0080ff" stroke-width="1"/>
+   <text x="361" y="440" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="361" y="453" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="361" y="466" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="361" y="479" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="361" y="492" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="361" y="505" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="372" y="440" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="372" y="453" fill="#000000" font-size="8" font-family="Arial">TITULO</text>
+   <text x="372" y="466" fill="#000000" font-size="8" font-family="Arial">DURACION</text>
+   <text x="372" y="479" fill="#000000" font-size="8" font-family="Arial">HORA_FUNCION</text>
+   <text x="372" y="492" fill="#000000" font-size="8" font-family="Arial">RESER_EDAD</text>
+   <text x="372" y="505" fill="#000000" font-size="8" font-family="Arial">DIMENSION</text>
+   <text x="460" y="440" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="460" y="453" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="460" y="466" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="460" y="479" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="460" y="492" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="460" y="505" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <line x1="357" x2="498" y1="513" y2="513" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="13" y="6" fill="url(#Gradient4)" width="147" height="64" stroke="#0080ff" stroke-width="1"/>
+   <text x="86" y="17" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">ciudad</text>
+   <line x1="13" x2="160" y1="23" y2="23" stroke="#0080ff" stroke-width="1"/>
+   <text x="17" y="32" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="17" y="45" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="28" y="32" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="28" y="45" fill="#000000" font-size="8" font-family="Arial">NOMBRE CIUDAD</text>
+   <text x="122" y="32" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="122" y="45" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <line x1="13" x2="160" y1="53" y2="53" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="412" y="149" fill="url(#Gradient5)" width="120" height="114" stroke="#0080ff" stroke-width="1"/>
+   <text x="472" y="160" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">asientos</text>
+   <line x1="412" x2="532" y1="166" y2="166" stroke="#0080ff" stroke-width="1"/>
+   <text x="417" y="175" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="417" y="188" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="417" y="201" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="417" y="214" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="417" y="227" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="417" y="240" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="428" y="175" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="428" y="188" fill="#000000" font-size="8" font-family="Arial">FILA</text>
+   <text x="428" y="201" fill="#000000" font-size="8" font-family="Arial">NUMERO</text>
+   <text x="428" y="214" fill="#000000" font-size="8" font-family="Arial">ID_SALA</text>
+   <text x="428" y="227" fill="#000000" font-size="8" font-family="Arial">ID_FUNCION</text>
+   <text x="428" y="240" fill="#000000" font-size="8" font-family="Arial">COLUMNA</text>
+   <text x="497" y="175" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="497" y="188" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="497" y="201" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="497" y="214" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="497" y="227" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="497" y="240" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="412" x2="532" y1="248" y2="248" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="277" fill="url(#Gradient6)" width="169" height="101" stroke="#0080ff" stroke-width="1"/>
+   <text x="86" y="288" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">funcionres</text>
+   <line x1="2" x2="171" y1="294" y2="294" stroke="#0080ff" stroke-width="1"/>
+   <text x="7" y="303" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="7" y="316" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="7" y="329" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="7" y="342" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="7" y="355" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="18" y="303" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="18" y="316" fill="#000000" font-size="8" font-family="Arial">ID_PELICULA</text>
+   <text x="18" y="329" fill="#000000" font-size="8" font-family="Arial">ID_SALA</text>
+   <text x="18" y="342" fill="#000000" font-size="8" font-family="Arial">HORA_FUNCION</text>
+   <text x="18" y="355" fill="#000000" font-size="8" font-family="Arial">FECHA_FUNCION</text>
+   <text x="111" y="303" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="111" y="316" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="111" y="329" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="111" y="342" fill="#000000" font-size="8" font-family="Arial">: Datetime</text>
+   <text x="111" y="355" fill="#000000" font-size="8" font-family="Arial">: Date</text>
+   <line x1="2" x2="171" y1="363" y2="363" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="600" y="164" fill="url(#Gradient7)" width="142" height="76" stroke="#0080ff" stroke-width="1"/>
+   <text x="671" y="175" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">asientos_reservados</text>
+   <line x1="600" x2="742" y1="181" y2="181" stroke="#0080ff" stroke-width="1"/>
+   <text x="605" y="190" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="605" y="203" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="605" y="216" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="616" y="190" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="616" y="203" fill="#000000" font-size="8" font-family="Arial">ID_RESERVACION</text>
+   <text x="616" y="216" fill="#000000" font-size="8" font-family="Arial">ID_ASIENTOS</text>
+   <text x="714" y="190" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="714" y="203" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="714" y="216" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="600" x2="742" y1="224" y2="224" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="665" y="297" fill="url(#Gradient8)" width="112" height="76" stroke="#0080ff" stroke-width="1"/>
+   <text x="721" y="308" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">Reservaciones</text>
+   <line x1="665" x2="777" y1="314" y2="314" stroke="#0080ff" stroke-width="1"/>
+   <text x="670" y="323" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="670" y="336" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="670" y="349" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="681" y="323" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="681" y="336" fill="#000000" font-size="8" font-family="Arial">ID_FUNCION</text>
+   <text x="681" y="349" fill="#000000" font-size="8" font-family="Arial">ID_CLIENTE</text>
+   <text x="750" y="323" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="750" y="336" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="750" y="349" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="665" x2="777" y1="357" y2="357" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="226" y="195" fill="url(#Gradient9)" width="112" height="102" stroke="#0080ff" stroke-width="1"/>
+   <text x="282" y="206" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">boleto</text>
+   <line x1="226" x2="338" y1="212" y2="212" stroke="#0080ff" stroke-width="1"/>
+   <text x="231" y="221" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="231" y="234" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="231" y="247" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="231" y="260" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="231" y="273" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="242" y="221" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="242" y="234" fill="#000000" font-size="8" font-family="Arial">ID_FUNCION</text>
+   <text x="242" y="247" fill="#000000" font-size="8" font-family="Arial">CANTIDAD</text>
+   <text x="242" y="260" fill="#000000" font-size="8" font-family="Arial">ID_CLIENTE</text>
+   <text x="242" y="273" fill="#000000" font-size="8" font-family="Arial">ID_ASIENTO</text>
+   <text x="312" y="221" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="312" y="234" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="312" y="247" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="312" y="260" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="312" y="273" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="226" x2="338" y1="281" y2="281" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="553" y="22" fill="url(#Gradient10)" width="158" height="88" stroke="#0080ff" stroke-width="1"/>
+   <text x="632" y="33" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">snacks</text>
+   <line x1="553" x2="711" y1="39" y2="39" stroke="#0080ff" stroke-width="1"/>
+   <text x="558" y="48" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="558" y="61" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="558" y="74" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="558" y="87" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="569" y="48" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="569" y="61" fill="#000000" font-size="8" font-family="Arial">NOMBRE PRODUCTO</text>
+   <text x="569" y="74" fill="#000000" font-size="8" font-family="Arial">COMBO</text>
+   <text x="569" y="87" fill="#000000" font-size="8" font-family="Arial">VALOR</text>
+   <text x="683" y="48" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="683" y="61" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="683" y="74" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="683" y="87" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <line x1="553" x2="711" y1="95" y2="95" stroke="#0080ff" stroke-width="1"/>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#aee4ff"/>
+      </linearGradient>
+   </defs>
+   <rect x="265" y="2" fill="url(#Gradient11)" width="162" height="98" stroke="#0080ff" stroke-width="1"/>
+   <text x="346" y="13" fill="#000000" font-size="8" font-family="Arial" text-anchor="middle">cine colombia</text>
+   <line x1="265" x2="427" y1="19" y2="19" stroke="#0080ff" stroke-width="1"/>
+   <text x="270" y="28" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="270" y="41" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="270" y="54" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="270" y="67" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="270" y="80" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="270" y="93" fill="#000000" font-size="8" font-family="Arial">-</text>
+   <text x="281" y="28" fill="#000000" font-size="8" font-family="Arial">ID</text>
+   <text x="281" y="41" fill="#000000" font-size="8" font-family="Arial">NOMBRE</text>
+   <text x="281" y="54" fill="#000000" font-size="8" font-family="Arial">DIRECCION</text>
+   <text x="281" y="67" fill="#000000" font-size="8" font-family="Arial">TELEFONO</text>
+   <text x="281" y="80" fill="#000000" font-size="8" font-family="Arial">ID CIUDAD</text>
+   <text x="281" y="93" fill="#000000" font-size="8" font-family="Arial">ID FUNCIONES</text>
+   <text x="361" y="28" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="361" y="41" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="361" y="54" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="361" y="67" fill="#000000" font-size="8" font-family="Arial">: int</text>
+   <text x="361" y="80" fill="#000000" font-size="8" font-family="Arial">: char</text>
+   <text x="361" y="93" fill="#000000" font-size="8" font-family="Arial">: int</text>
+</svg>
