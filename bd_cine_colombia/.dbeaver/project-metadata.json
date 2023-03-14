@@ -1,1 +1,1 @@
-{"resources":{"Scripts/create_scheme_user.sql":{"default-datasource":"oracle_thin-186dd811757-5bdd91946724712a","default-schema":"SYSTEM"}}}
+{"resources":{"Scripts/BD_CINES.sql":{"default-datasource":"oracle_thin-186dd9167ba-507defdb028c6792","default-schema":"CINE"},"Scripts/create_scheme_user.sql":{"default-datasource":"oracle_thin-186dd811757-5bdd91946724712a","default-schema":"SYSTEM"}}}
