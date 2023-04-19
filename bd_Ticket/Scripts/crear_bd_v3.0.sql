@@ -1,6 +1,6 @@
 /*==============================================================*/
 /* DBMS name:      ORACLE Version 12c                           */
-/* Created on:     17/04/2023 8:06:23 p. m.                     */
+/* Created on:     17/04/2023 8:06:23 p.ï¿½m.                     */
 /*==============================================================*/
 
 
@@ -197,6 +197,7 @@ CREATE TABLE PEDIDO (
 CREATE TABLE PRODUCTOS (
    ID_PRODUCTOS         VARCHAR(5)            NOT NULL,
    NOMBRE_PRODUCTO      VARCHAR(60),
+   
    CONSTRAINT PK_PRODUCTOS PRIMARY KEY (ID_PRODUCTOS)
 );
 
